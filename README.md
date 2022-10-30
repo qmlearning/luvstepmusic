@@ -1,6 +1,6 @@
 # luvstepmusic
 
-A database of Luvstep playlists.
+A database of Luvstep playlists and quotes.
 
 Luvstep is a music podcast created by Dirty South Joe & Flufftronix.
 
