@@ -7,7 +7,7 @@ Luvstep is a music podcast created by Dirty South Joe & Flufftronix.
 
 ## Naming Conventions
 
-**Variable Name:** luvstep1
+**Object Name:** luvstep1
 
 **Artists:** Artist1, Artist2, ...
 
